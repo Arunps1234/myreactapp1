@@ -1,0 +1,31 @@
+.confirmpopup{
+    width:700px;
+    height:400px;
+    background-color:whitesmoke;
+    opacity: 1;
+    position: fixed;
+    left:29%;
+    top:120px;
+    z-index: 999;
+    border-radius: 10px;
+}
+
+.areyou{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:50px
+}
+.X{
+    float:right;
+    margin-right: 20px;
+    margin-top: -25px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.userava{
+    position:relative;
+    left:48%;
+    top:15%;
+    font-size: 75px;
+}

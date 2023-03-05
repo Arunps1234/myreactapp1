@@ -1,0 +1,18 @@
+
+
+
+
+
+
+@media screen and (min-width:1px) and (max-width:1999px){
+    .scrrenpopup{
+        display: block;
+    }
+    
+}
+@media screen and (min-width:1200px) {
+    .scrrenpopup{
+        display: none;
+    }
+    
+}
